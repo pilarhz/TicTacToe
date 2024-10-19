@@ -1,3 +1,3 @@
-Tic Tac Toe game,
-Right now only pvp,
-pvc maybe in future:P
+# Tic Tac Toe game
+Right now only pvp\
+maybe pvc in future:P
